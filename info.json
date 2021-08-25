@@ -1,0 +1,24 @@
+{
+    "name": "Ahzam Bardai",
+    "website": "https://github.com/AhzamBardai",
+    "linkedin": "https://www.linkedin.com/in/ahzam-bardai/",
+    "github": "AhzamBardai",
+    "email": "ahzam.bardai@outlook.com",
+    "resume": "https://docs.google.com/document/d/1AKextv25DxMpVNtpx2QMZ_z2KM0gREkbtaFv2tRejtY/edit?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Java"
+    ],
+    "otherSkills": [
+        "Cooking",
+        "Reading Light Novels"
+    ]
+}
